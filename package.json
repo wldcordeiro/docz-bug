@@ -1,0 +1,13 @@
+{
+  "name": "docz-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wellington Cordeiro <wellington@wellingtoncordeiro.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "docz": "^0.11.2"
+  },
+	"scripts": {
+		"start": "docz dev"
+	}
+}

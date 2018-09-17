@@ -1,0 +1,25 @@
+{
+  "config": {
+    "title": "Doc site",
+    "description": "My awesome app using docz",
+    "themeConfig": {},
+    "ordering": "descending",
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "hashRouter": true
+  },
+  "entries": {
+    "docs/changelog.mdx": {
+      "order": 1,
+      "name": "Changelog",
+      "route": "/changelog",
+      "id": "930fff76ecc60a15c61587b3693c8fc1",
+      "filepath": "docs/changelog.mdx",
+      "link": null,
+      "slug": "docs-changelog",
+      "menu": null,
+      "headings": []
+    }
+  }
+}
